@@ -4,3 +4,4 @@ metadata:
   name: fluentd
   labels:
     app: fluentd
+  namespace: edumeet-141
