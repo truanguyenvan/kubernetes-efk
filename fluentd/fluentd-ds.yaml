@@ -4,8 +4,7 @@ metadata:
   name: fluentd
   labels:
     app: fluentd
-namespace: edumeet-141
-name: fluentd
+  namespace: edumeet-141
 spec:
   selector:
     matchLabels:
